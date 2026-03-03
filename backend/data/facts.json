@@ -1,0 +1,21 @@
+{
+  "full_name": "Byron Blank",
+  "name": "Byron",
+  "current_role": "DevOps Engineer",
+  "location": "Florida, USA",
+  "email": "byron.blank@example.com",
+  "linkedin": "linkedin.com/in/byronblank",
+  "specialties": [
+    "Cloud Infrastructure",
+    "CI/CD Automation",
+    "Containerization"
+  ],
+  "years_experience": 16,
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Information Systems",
+      "institution": "DeVry University",
+      "year": "2011"
+    }
+  ]
+}
